@@ -1,0 +1,11 @@
+- Minggu 1
+  *Software Testing Fundamental
+  *Software Testing as a Career Path
+ - Minggu 2
+  *Version Control (Git)
+  *Testing Documentation
+  *Test Case Management Tools
+ - Minggu 3
+  *Tracking Management Tools
+  *Agile Testing
+  *Linux Basic Command
